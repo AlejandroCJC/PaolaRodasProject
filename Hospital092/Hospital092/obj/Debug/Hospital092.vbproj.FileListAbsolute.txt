@@ -1,0 +1,54 @@
+c:\users\usuariopc\documents\visual studio 2015\Projects\Hospital092\Hospital092\bin\Debug\Hospital092.exe
+c:\users\usuariopc\documents\visual studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.exe
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Enfermedades.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Especialidades.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Medicamentos.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Proveedores.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.AdministrarDoctores.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.VerDoctores.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Consulta.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Informacion.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Procedimientos.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.TipoOperacion.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Reportes.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Form1.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Resources.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.vbproj.GenerateResource.Cache
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.xml
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\Hospital092.exe.config
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\Hospital092.pdb
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\Hospital092.xml
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\EntityFramework.dll
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\EntityFramework.xml
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.vbprojResolveAssemblyReference.cache
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.pdb
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.index.resources
+E:\Hospital092\Hospital092\bin\Debug\Hospital092.exe.config
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.exe
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.xml
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.pdb
+E:\Hospital092\Hospital092\bin\Debug\Hospital092.exe
+E:\Hospital092\Hospital092\bin\Debug\Hospital092.pdb
+E:\Hospital092\Hospital092\bin\Debug\Hospital092.xml
+E:\Hospital092\Hospital092\bin\Debug\EntityFramework.dll
+E:\Hospital092\Hospital092\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hospital092\Hospital092\bin\Debug\EntityFramework.xml
+E:\Hospital092\Hospital092\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.vbprojResolveAssemblyReference.cache
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Enfermedades.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Especialidades.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Medicamentos.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Proveedores.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.AdministrarDoctores.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.VerDoctores.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.index.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Consulta.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Informacion.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Procedimientos.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.TipoOperacion.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Reportes.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Form1.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.Resources.resources
+E:\Hospital092\Hospital092\obj\Debug\Hospital092.vbproj.GenerateResource.Cache
